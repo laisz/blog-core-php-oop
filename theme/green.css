@@ -1,0 +1,134 @@
+/* Deep green...*/
+
+.headersection {
+    background: #33ca2f none repeat scroll 0 0;
+    color: #fff;
+}
+
+.icon a {
+    background: #19822f none repeat scroll 0 0;
+}
+
+.searchbtn input[type="submit"] {
+    border: 1px solid #1aff03;
+}
+
+.searchbtn input[type="submit"]:hover {
+    background: #1de018 none repeat scroll 0 0;
+    border: 1px solid #52ab50;
+}
+
+input[type="submit"] {
+    background: #19822f none repeat scroll 0 0;
+    border: 1px solid #52C252;
+}
+
+.searchbtn input[type="text"] {
+    border: 1px solid #1aff03;
+    background: #90ff8d;
+}
+
+.navsection {
+    background: none repeat scroll 0 0 #52ab50;
+    min-height: 38px;
+}
+
+.navsection ul li {
+    border-left: 1px solid #4ee04a;
+    border-right: 1px solid #1ac73f;
+}
+
+.navsection ul li a:hover, #active {
+    background: #beffbc;
+}
+
+.contentsection {
+    border: 1px solid #1aff03;
+}
+
+.maincontent {
+    background: #edffeb none repeat scroll 0 0;
+    border: 1px solid #b6f5af;
+}
+
+.sidebar {
+    background: #edffeb none repeat scroll 0 0;
+    border: 1px solid #b6f5af;
+}
+
+.pagination a {
+    background: #52ab50 none repeat scroll 0 0;
+    border: 1px solid #1aff03;
+}
+
+.pagination a:hover {
+    background: #19822f none repeat scroll 0 0;
+    color: #fff;
+}
+
+.popular h3 {
+    border-bottom: 1px dashed #1aff03;
+}
+
+.popular img {
+    border: 1px solid #1aff03;
+}
+
+.samesidebar h2 {
+    background: #52ab50 none repeat scroll 0 0;
+    border-bottom: 2px solid #19822f;
+    color: #fff;
+}
+
+.samesidebar ul li {
+    border-bottom: 1px dashed #1aff03;
+}
+
+.samesidebar ul li a {
+    color: #19822f;
+}
+
+.samesidebar ul li a:hover {
+    color: #33ca2f;
+}
+
+.about img {
+    border: 1px solid #1aff03;
+}
+
+.samepost h2, .about h2 {
+    border-bottom: 2px solid #abf5a2;
+    color: #19822f;
+}
+
+.samepost h2 a {
+    color: #19822f;
+}
+
+.samepost img {
+    border: 1px solid #1aff03;
+}
+
+.relatedpost h2 {
+    background: #52ab50 none repeat scroll 0 0;
+    border-bottom: 2px solid #19822f !important;
+    color: #fff !important;
+}
+
+
+.readmore a {
+    border: 1px solid #1aff03;
+    color: #52ab50;
+}
+
+.readmore a:hover {
+    color: #25e18c;
+}
+
+.footersection {
+    background: #33ca2f;
+}
+
+.footermenu ul li a {
+    color: #19822f;
+}

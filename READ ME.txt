@@ -1,0 +1,10 @@
+
+
+Login As Admin:
+
+UserName: admin
+Password: rangpur
+
+here in root directory there is a db_blog.zip
+Inside zip there is a sql file 
+name 'db_blog' use this as BLOG DATABASE
